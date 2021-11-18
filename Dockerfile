@@ -1,1 +1,1 @@
-FROM jboss/keycloak:15.0.0
+FROM registry.redhat.io/rh-sso-7/sso75-openshift-rhel8:7.5-4
